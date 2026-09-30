@@ -20,7 +20,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 # ============================================================
 # CONFIG
 # ============================================================
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"   # <-- Replace this
+BOT_TOKEN = "8679241133:AAFSBjfXvo_3UTaSg4rfbaDW93KzkNjufu0"   # <-- Replace this
 DB_PATH = "words.db"
 DEFAULT_TZ = "Africa/Lagos"
 
